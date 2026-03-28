@@ -1,0 +1,9 @@
+venv/
+logs/
+plugins/
+config/
+__pycache__/
+*.pyc
+.env
+dags/model/*.pkl
+dags/model/*.sav
