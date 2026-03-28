@@ -1,5 +1,4 @@
-# Wholesale Customer Clustering — Airflow Pipeline
-
+# Lab 5
 This project uses Apache Airflow to orchestrate a simple ML pipeline that clusters wholesale customers based on their spending patterns. The whole thing runs in Docker, so there's nothing to install locally beyond Docker Desktop.
 
 The dataset comes from the [UCI Wholesale Customers dataset](https://archive.ics.uci.edu/dataset/292/wholesale+customers), which tracks annual spending across categories like Fresh, Milk, Grocery, etc. for 440 clients of a wholesale distributor.
